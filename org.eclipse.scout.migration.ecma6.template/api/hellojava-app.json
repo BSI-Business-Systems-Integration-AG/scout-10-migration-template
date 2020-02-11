@@ -1,0 +1,8 @@
+{
+  "customAttributes" : {
+    "lib-moduleName" : "@eclipse-scout/hellojava-app"
+  },
+  "fullyQualifiedName" : "hellojava",
+  "name" : "hellojava",
+  "type" : "Library"
+}
