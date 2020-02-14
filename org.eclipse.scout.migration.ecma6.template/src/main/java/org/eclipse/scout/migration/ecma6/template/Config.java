@@ -43,27 +43,9 @@ public class Config extends Configuration {
 		return "namespace";
 	}
 
-	/**
-	 * Specifies the name of your ui.html module which you will later put in package.json. It will be used for import generation.
-	 * Scope can be your company name, or your product name or whathever you like.
-	 */
-	@Override
-	public String getPersistLibraryName() {
-		// TODO adjust
-		return "@abc/core";
-	}
 
 	/**
-	 * Specifies the name of the file that contains your api, choose what you want.
-	 */
-	@Override
-	public String getPersistLibraryFileName() {
-		// TODO adjust
-		return "abc.json";
-	}
-
-	/**
-	 * Specifies the folder where the api files are stored.
+	 * Specifies the folder where the api files to migrate against are stored.
 	 */
 	@Override
 	protected Path getConfiguredApiBase() {
