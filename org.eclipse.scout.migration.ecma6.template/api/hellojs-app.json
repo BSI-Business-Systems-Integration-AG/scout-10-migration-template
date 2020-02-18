@@ -1,8 +1,0 @@
-{
-  "customAttributes" : {
-    "lib-moduleName" : "@eclipse-scout/hellojs-app"
-  },
-  "fullyQualifiedName" : "hellojs",
-  "name" : "hellojs",
-  "type" : "Library"
-}
