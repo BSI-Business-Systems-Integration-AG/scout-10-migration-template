@@ -16,7 +16,7 @@
     <dependency>
 	  <groupId>org.eclipse.scout.rt</groupId>
       <artifactId>org.eclipse.scout.migration.ecma6</artifactId>
-	  <version>10.0.4</version>
+	  <version>10.0.6</version>
     </dependency>
   </dependencies>
 </project>
